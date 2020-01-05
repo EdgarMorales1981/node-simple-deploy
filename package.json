@@ -8,9 +8,6 @@
   },
   "author": "Edgar",
   "license": "ISC",
-  "engines": {
-    "node": "12.14.0"
-  },
   "dependencies": {
     "bcrypt": "^3.0.7",
     "body-parser": "^1.19.0",
